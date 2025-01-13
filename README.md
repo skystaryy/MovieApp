@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+Campus project part 999++
 
 ## Getting Started
 
